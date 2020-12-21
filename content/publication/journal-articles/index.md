@@ -2,7 +2,6 @@
 title: "Biophysical effects on temperature and precipitation due to land cover change"
 authors:
 - Lucia Perugini
-- admin
 date: "2017-05-07T00:00:00Z"
 doi: ""
 
