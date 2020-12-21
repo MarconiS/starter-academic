@@ -47,4 +47,4 @@ highlight_name: false
 ---
 Sergio Marconi is a Post-Doc researcher at University of Florida, interested in cross-scale patterns and ecological processes that shape forest ecosystems structure, functions and diversity. His work focuses on developing machine and statistical learning methods to leverage the ecological information held in remote sensing and field big datasets. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
