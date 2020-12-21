@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = "AI for Ecology"
+title = ""
 weight = 15
 widget = "blank"
 [advanced]
