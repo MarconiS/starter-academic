@@ -5,7 +5,7 @@ weight: "30"
 title: Skills
 subtitle: 
 feature:
-- description: Deep Learning
+- description: Machine and Deep Learning
   icon: ''
   icon_pack: ''
   name: ''
