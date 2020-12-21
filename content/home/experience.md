@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Post-doc
-  company: University of Florida
-  company_url: 'https://snre.ifas.ufl.edu'
-  location: Florida
-  date_start: '2020-01-02'
-  date_end: ''
-  description: |2-
-      * Cross-scale effects of ecological drivers on forest structure and function
-      * AI for big surveys of tree crowns from NEON Remote Sensing
-      * Deploying
+  - title: Post-doc
+    company: University of Florida
+    company_url: 'https://snre.ifas.ufl.edu'
+    location: Florida
+    date_start: '2020-01-02'
+    date_end: ''
+    description: |2-
+        * Cross-scale effects of ecological drivers on forest structure and function
+        * AI for big surveys of tree crowns from NEON Remote Sensing
+        * Deploying
 
   - title: PhD
     company: University of Florida
@@ -53,6 +53,6 @@ experience:
     date_end: '2015-06-30'
     description: |2-
         * Co-development of the 3D-CMCC Forest Ecosystem Model (phenology and soil)
-        * Analysis of biophysical effects of Land Cover Change on climate 
+        * Analysis of biophysical effects of Land Cover Change on climate
 
 ---
