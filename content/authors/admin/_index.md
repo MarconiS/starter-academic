@@ -12,7 +12,6 @@ interests:
 - Macroecology
 - Remote Sensing
 - Artificial Intelligence
-- Information Retrieval
 education:
   courses:
   - course: PhD in Interdisciplinary Ecology
@@ -21,9 +20,6 @@ education:
   - course: MSc in Forest and Environmental Science
     institution: University of Tuscia
     year: "2014"
-  - course: BSc in Forest and Environmental Sciences
-    institution: University of Tuscia
-    year: "2010"
 social:
 - icon: envelope
   icon_pack: fas
