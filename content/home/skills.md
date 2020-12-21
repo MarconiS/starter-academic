@@ -5,6 +5,10 @@ weight: "30"
 title: Skills
 subtitle: 
 feature:
+- description: Remote Sensing
+  icon: ''
+  icon_pack: ''
+  name: ''
 - description: Python
   icon: ''
   icon_pack: ''
