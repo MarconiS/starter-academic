@@ -22,10 +22,7 @@ padding = ["20px", "0", "20px", "0"]
 
 ## 
 
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [_Blank_ widget](https://sourcethemes.com/academic/docs/widgets/).
+{{% callout note %}} This homepage is under construction. Examples of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [_Blank_ widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the _background_ option is set give a _color gradient_.
 
-**To remove this section, delete `content/home/demo.md`.**
 {{% /callout %}}
