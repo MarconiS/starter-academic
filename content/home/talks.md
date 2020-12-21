@@ -2,8 +2,8 @@
 widget: pages
 headless: true
 weight: "70"
-title: Recent & Upcoming Talks
-subtitle: 
+title: Talks
+subtitle:
 content:
   page_type: talk
   count: "5"
