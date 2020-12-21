@@ -1,6 +1,7 @@
 ---
 title: "Biophysical effects on temperature and precipitation due to land cover change"
 authors:
+- Lucia Perugini
 - admin
 date: "2017-05-07T00:00:00Z"
 doi: ""
@@ -31,20 +32,20 @@ featured: false
 
 links:
 - name:
-  url: https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta
+  url_project: https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta
 url_pdf:
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '(https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/12/5/053002/2/erlaa6b3ff1_online.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1609198548&Signature=iP%2FE9kJAkg9E2TRR6lOZqAWiK1o%3D)'
+  caption:
   focal_point: ""
   preview_only: false
 
