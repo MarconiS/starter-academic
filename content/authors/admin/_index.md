@@ -1,27 +1,30 @@
 ---
 title: Dr. Sergio Marconi (He/Him)
 superuser: true
-role: Post-Doc
+role: Post-Doc at University of Florida
 organizations:
 - name: School of Forest Resources and Conservation
   url: http://sfrc.ufl.edu
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 interests:
+- Computer Vision
+- Forest Ecology
+- Macroecology
+- Remote Sensing
 - Artificial Intelligence
-- Computational Linguistics
 - Information Retrieval
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: "2012"
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2009"
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2008"
+  - course: PhD in Interdisciplinary Ecology
+    institution: University of Florida
+    year: "2020"
+  - course: MSc in Forest and Environmental Science
+    institution: University of Tuscia
+    year: "2014"
+  - course: BSc in Forest and Environmental Sciences
+    institution: University of Tuscia
+    year: "2010"
 social:
 - icon: envelope
   icon_pack: fas
