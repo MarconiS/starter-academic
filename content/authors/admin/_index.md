@@ -1,5 +1,5 @@
 ---
-title: Sergio Marconi
+title: Dr. Sergio Marconi (He/Him)
 superuser: true
 role: Post-Doc
 organizations:
