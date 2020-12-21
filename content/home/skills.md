@@ -5,37 +5,40 @@ weight: "30"
 title: Skills
 subtitle:
 feature:
-- description: Forest System Modeling
-  icon: 'globe-europe'
-  icon_pack: 'fab'
-  name: ''
-- description: Forest Ecology
-  icon: 'trees'
-  icon_pack: 'fab'
-  name: ''
-- description: Machine and Deep Learning
-  icon: 'robot'
-  icon_pack: 'fab'
-  name: ''
-- description: Remote Sensing
-  icon: 'satellite'
-  icon_pack: 'fab'
-  name: ''
-- description: Python
-  icon: 'python'
-  icon_pack: 'fab'
-  name: ''
-- description: R
-  icon: r-project
+- description:
+  icon: globe-europe
+  icon_pack: fas
+  name: Forest System Modeling
+- description:
+  icon: trees
+  icon_pack: fas
+  name: Forest Ecology
+- description:
+  icon: satellite
+  icon_pack: fas
+  name: Remote Sensing
+- description:
+  icon: robot
+  icon_pack: fas
+  name: Machine and Deep Learning
+- description:
+  icon: python
   icon_pack: fab
-  name:
-- description: Statistics
+  name: Python
+- description:
+  icon: r-project
+  icon_pack: fas
+  name: R
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: Big Data
+- description:
   icon: database
   icon_pack: fas
-  name:
-
+  name: Big Data
+- description:
+  icon: globe-stand
+  icon_pack: fas
+  name: GIS
 ---
