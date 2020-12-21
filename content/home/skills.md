@@ -11,7 +11,7 @@ feature:
   name: Forest System Modeling
 - description:
   icon: trees
-  icon_pack: fas
+  icon_pack: fab
   name: Forest Ecology
 - description:
   icon: satellite
@@ -27,7 +27,7 @@ feature:
   name: Python
 - description:
   icon: r-project
-  icon_pack: fas
+  icon_pack: fab
   name: R
 - description:
   icon: chart-line
@@ -39,6 +39,6 @@ feature:
   name: Big Data
 - description:
   icon: globe-stand
-  icon_pack: fas
+  icon_pack: fab
   name: GIS
 ---
