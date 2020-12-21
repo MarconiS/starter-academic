@@ -5,6 +5,10 @@ weight: "30"
 title: Skills
 subtitle: 
 feature:
+- description: Forest System Modeling
+  icon: ''
+  icon_pack: ''
+  name: ''
 - description: Forest Ecology
   icon: ''
   icon_pack: ''
