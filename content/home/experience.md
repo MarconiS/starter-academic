@@ -22,17 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Post-doc 
+- title: Post-doc
   company: University of Florida
   company_url: 'https://snre.ifas.ufl.edu'
   location: Florida
   date_start: '2020-01-02'
   date_end: ''
   description: |2-
-      Responsibilities include:
-
-      * Analysing
-      * Modelling
+      * Cross-scale effects of ecological drivers on forest structure and function
+      * AI for big surveys of tree crowns from NEON Remote Sensing
       * Deploying
 
   - title: PhD
@@ -42,11 +40,10 @@ experience:
     date_start: '2015-08-16'
     date_end: '2020-12-17'
     description: |2-
-        Responsibilities include:
-
-        * Analysing
-        * Modelling
-        * Deploying
+        * AI for estimating individual tree properties at scale
+        * AI for classification of individual trees for ~80 species
+        * Hierarchical modeling of leaf properties distribution across the US
+        * Organization of data science competition in ecology
 
   - title: Researcher
     company: Euro-Mediterranean Center on Climate Change (CMCC)
@@ -54,5 +51,8 @@ experience:
     location: Italy
     date_start: '2012-12-01'
     date_end: '2015-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        * Co-development of the 3D-CMCC Forest Ecosystem Model (phenology and soil)
+        * Analysis of biophysical effects of Land Cover Change on climate 
+
 ---
