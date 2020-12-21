@@ -5,6 +5,10 @@ weight: "30"
 title: Skills
 subtitle: 
 feature:
+- description: Python
+  icon: ''
+  icon_pack: ''
+  name: ''
 - description: 100%
   icon: r-project
   icon_pack: fab
