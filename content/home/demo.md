@@ -11,8 +11,8 @@ css_style = ""
 [design]
 columns = "1"
 [design.background]
-gradient_end = "ForestGreen"
-gradient_start = "DarkGreen"
+gradient_end = ""
+gradient_start = ""
 text_color_light = true
 [design.spacing]
 padding = ["20px", "0", "20px", "0"]
