@@ -5,6 +5,10 @@ weight: "30"
 title: Skills
 subtitle: 
 feature:
+- description: Forest Ecology
+  icon: ''
+  icon_pack: ''
+  name: ''
 - description: Machine and Deep Learning
   icon: ''
   icon_pack: ''
