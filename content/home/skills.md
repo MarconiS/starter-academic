@@ -10,7 +10,7 @@ feature:
   icon_pack: fas
   name: Forest System Modeling
 - description:
-  icon: trees
+  icon: tree
   icon_pack: fab
   name: Forest Ecology
 - description:
@@ -38,7 +38,7 @@ feature:
   icon_pack: fas
   name: Big Data
 - description:
-  icon: globe-stand
+  icon: satellite-dish
   icon_pack: fab
   name: GIS
 ---
