@@ -5,8 +5,7 @@ role: Post-Doc at University of Florida
 organizations:
 - name: School of Forest Resources and Conservation
   url: http://sfrc.ufl.edu
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research focuses on AI for forest cross-scale ecology and conservation
 interests:
 - Computer Vision
 - Forest Ecology
