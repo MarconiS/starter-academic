@@ -3,39 +3,39 @@ widget: featurette
 headless: true
 weight: "30"
 title: Skills
-subtitle: 
+subtitle:
 feature:
 - description: Forest System Modeling
-  icon: ''
-  icon_pack: ''
+  icon: 'globe-europe'
+  icon_pack: 'fab'
   name: ''
 - description: Forest Ecology
-  icon: ''
-  icon_pack: ''
+  icon: 'trees'
+  icon_pack: 'fab'
   name: ''
 - description: Machine and Deep Learning
-  icon: ''
-  icon_pack: ''
+  icon: 'robot'
+  icon_pack: 'fab'
   name: ''
 - description: Remote Sensing
-  icon: ''
-  icon_pack: ''
+  icon: 'satellite'
+  icon_pack: 'fab'
   name: ''
 - description: Python
-  icon: ''
-  icon_pack: ''
+  icon: 'python'
+  icon_pack: 'fab'
   name: ''
-- description: 100%
+- description: R
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name:
+- description: Statistics
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: Big Data
+  icon: database
   icon_pack: fas
-  name: Photography
+  name:
 
 ---
