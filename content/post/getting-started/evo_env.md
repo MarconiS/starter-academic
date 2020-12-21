@@ -18,7 +18,6 @@ tags:
 - Academic
 categories:
 - Demo
-- 教程
 
 ---
 Coming soon
