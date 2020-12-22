@@ -38,6 +38,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Full list [filtering publications](./publication/).
-{{% /callout %}}
+#{{% callout note %}}
+#Full list [filtering publications](./publication/).
+#{{% /callout %}}

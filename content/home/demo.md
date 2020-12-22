@@ -20,9 +20,7 @@ padding = ["20px", "0", "20px", "0"]
 +++
 ## AI forest Ecology
 
-## 
+##
 
-{{% callout note %}} This homepage is under construction. Examples of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [_Blank_ widget](https://sourcethemes.com/academic/docs/widgets/).
-
-
-{{% /callout %}}
+#{{% callout note %}} This homepage is under construction. Examples of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [_Blank_ widget](https://sourcethemes.com/academic/docs/widgets/).
+#{{% /callout %}}

@@ -1,9 +1,10 @@
 ---
-title: PTR-CNN
+title: Automated wildlife conservation
 summary: Automated species count from camera-traps for little internet access areas.
 tags:
 - Deep Learning
-date: "2017-05-19T00:00:00Z"
+- Wildlife
+date: "2019-05-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
