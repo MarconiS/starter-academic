@@ -1,5 +1,5 @@
 ---
-title: Big not just data: NEON as the trans-disciplinary, open community to unlock ecology across space, taxa, and time.
+title: Big not just data. NEON as the trans-disciplinary, open community to unlock ecology across space, taxa, and time.
 
 event: 2019 NEON Science Summit
 event_url: https://www.colorado.edu/earthlab/2019/06/13/neon-science-summit
