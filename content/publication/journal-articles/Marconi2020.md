@@ -47,7 +47,7 @@ url_video: ''
 image:
   caption: ![Example image](/static/images/species_inventories.png)
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

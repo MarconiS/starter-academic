@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
   weight = 20
 
@@ -29,13 +29,18 @@
   weight = 50
 
 [[main]]
+  name = "Teaching"
+  url = "#lessons"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "media/resume.pdf"
-   weight = 70
+   url = "static/media/resume.pdf"
+   weight = 80
