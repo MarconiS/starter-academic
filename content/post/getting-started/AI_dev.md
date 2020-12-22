@@ -16,7 +16,6 @@ authors:
 tags:
 - Deep Learning
 categories:
-- Demo
 - Wildlife
 
 ---
