@@ -34,7 +34,7 @@ featured: true
 links:
 - name:
   url_pdf: 'https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13472'
-url_code: ''
+url_code: 'https://github.com/weecology/DeepForest'
 url_dataset: ''
 url_poster: ''
 url_slides: ''
