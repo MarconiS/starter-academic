@@ -12,7 +12,7 @@ date: "2021-01-19T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Mepixels
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Anthropogenic land cover changes (LCC) affect regional and global climate through biophysical variations of the surface energy budget mediated by albedo, evapotranspiration, and roughness. This change in surface energy budget may exacerbate or counteract biogeochemical greenhouse gas effects of LCC, with a large body of emerging assessments being produced, sometimes apparently contradictory. We reviewed the existing scientific literature with the objective to provide an overview of the state-of-the-knowledge of the biophysical LCC climate effects, in support of the assessment of mitigation/adaptation land policies.

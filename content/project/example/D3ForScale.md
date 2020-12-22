@@ -10,7 +10,7 @@ date: "2021-01-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Mepixels
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
 
 links:
