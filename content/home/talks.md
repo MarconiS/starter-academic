@@ -3,6 +3,7 @@ widget: portfolio
 headless: true
 weight: "70"
 title: Talks
+align: center
 subtitle:
 content:
   page_type: talk
