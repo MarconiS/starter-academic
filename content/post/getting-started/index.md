@@ -6,9 +6,9 @@ subtitle: "Welcome \U0001F44B We know that first impressions are important, so w
 summary: My upcoming blog post about opportunities of global monitoring with upcoming
   satellite missions
 projects: []
-date: 2016-04-20T00:00:00Z
+date: 2020-12-20T00:00:00Z
 lastmod: 2020-12-13T00:00:00Z
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''

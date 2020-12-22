@@ -7,9 +7,9 @@ date: 2018-04-20T00:00:00Z
 lastmod: 2020-12-13T00:00:00Z
 featured: true
 image:
-  caption: 'Image credit: [**Mepixels**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fphotos%2Ftiger-siberian-tiger-tiger-head-3424791%2F&psig=AOvVaw0N7pKem0-BoJQGlIFBhr40&ust=1608671489365000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDEtrz-3-0CFQAAAAAdAAAAABAD)'
+  caption: ![Image credit: [**Mepixels**]]('/static/images/species_inventories.png')
   focal_point: ''
-  placement: "2"
+  placement: "1"
   preview_only: false
 authors:
 - Sergio Marconi
