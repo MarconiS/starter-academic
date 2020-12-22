@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "Ecological Informatics"
 publication_short: ""
 
-abstract: Tree crown detection is a fundamental task in remote sensing for forestry and ecosystem ecology. While many individual tree segmentation algorithms have been proposed, the development and testing of these algorithms is typically site specific, with few methods evaluated against data from multiple forest types simultaneously. This makes it difficult to determine the generalization of proposed approaches, and limits tree detection at broad scales. Using data from the National Ecological Observatory Network, we extend a recently developed deep learning approach to include data from a range of forest types to determine whether information from one forest can be used for tree detection in other forests, and explore the potential for building a universal tree detection algorithm.
+abstract: 'Tree crown detection is a fundamental task in remote sensing for forestry and ecosystem ecology. While many individual tree segmentation algorithms have been proposed, the development and testing of these algorithms is typically site specific, with few methods evaluated against data from multiple forest types simultaneously. This makes it difficult to determine the generalization of proposed approaches, and limits tree detection at broad scales. Using data from the National Ecological Observatory Network, we extend a recently developed deep learning approach to include data from a range of forest types to determine whether information from one forest can be used for tree detection in other forests, and explore the potential for building a universal tree detection algorithm.'
 
 # Summary. An optional shortened abstract.
 summary:
