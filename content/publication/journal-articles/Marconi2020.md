@@ -27,7 +27,7 @@ tags:
 - Leaf Traits
 - ITC
 
-featured: false
+featured: true
 
 links:
 - name:
