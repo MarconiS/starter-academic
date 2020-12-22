@@ -6,7 +6,7 @@ summary: My upcoming blog post about opportunities of global monitoring with upc
 projects: []
 date: 2016-04-20T00:00:00Z
 lastmod: 2020-12-20T00:00:00Z
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
