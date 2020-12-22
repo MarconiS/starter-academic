@@ -26,16 +26,14 @@ summary:
 tags:
 - Forest Ecosystem Modeling
 
-featured: false
+featured: true
 
 links:
 - name:
-  url_project: https://www.mdpi.com/1999-4907/8/6/220
-url_pdf:
+  url_pdf: https://www.mdpi.com/1999-4907/8/6/220
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

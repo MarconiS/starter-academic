@@ -27,16 +27,14 @@ tags:
 - Forest Ecosystem Modeling
 - Land Cover change
 
-featured: false
+featured: true
 
 links:
 - name:
-  url_project: https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta
-url_pdf:
+  url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

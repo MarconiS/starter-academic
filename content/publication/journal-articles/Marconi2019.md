@@ -31,8 +31,7 @@ featured: false
 
 links:
 - name:
-  url_project: https://peerj.com/articles/5843/
-url_pdf:
+  url_pdf: https://peerj.com/articles/5843/
 url_code: ''
 url_dataset: ''
 url_poster: ''
