@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name:
-  url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta
+  url_pdf: 'https://iopscience.iop.org/article/10.1088/1748-9326/aa6b3f/meta'
 url_code: ''
 url_dataset: ''
 url_poster: ''

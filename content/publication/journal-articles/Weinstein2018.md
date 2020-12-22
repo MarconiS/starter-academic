@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name:
-  url_pdf: https://www.mdpi.com/2072-4292/11/11/1309
+  url_pdf: 'https://www.mdpi.com/2072-4292/11/11/1309'
 url_code: ''
 url_dataset: ''
 url_poster: ''

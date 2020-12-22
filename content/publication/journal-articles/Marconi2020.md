@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name:
-  url_pdf: https://www.biorxiv.org/content/10.1101/556472v2.abstract
+  url_pdf: 'https://www.biorxiv.org/content/10.1101/556472v2.abstract'
 url_code: ''
 url_dataset: ''
 url_poster: ''

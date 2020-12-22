@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name:
-  url_pdf: https://link.springer.com/article/10.1007/s13595-020-0922-z
+  url_pdf: 'https://link.springer.com/article/10.1007/s13595-020-0922-z'
 url_code: ''
 url_dataset: ''
 url_poster: ''

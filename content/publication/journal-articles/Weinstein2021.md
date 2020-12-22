@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name:
-  url_pdf: https://www.biorxiv.org/content/10.1101/2020.09.08.287839v1.abstract
+  url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.09.08.287839v1.abstract'
 url_code: ''
 url_dataset: ''
 url_poster: ''

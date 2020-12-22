@@ -30,7 +30,7 @@ featured: true
 
 links:
 - name:
-  url_pdf: https://www.mdpi.com/1999-4907/8/6/220
+  url_pdf: 'https://www.mdpi.com/1999-4907/8/6/220'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name:
-  url_pdf: https://iforest.sisef.org/contents/?id=ifor1779-008
+  url_pdf: 'https://iforest.sisef.org/contents/?id=ifor1779-008'
 url_code: ''
 url_dataset: ''
 url_poster: ''

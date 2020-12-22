@@ -27,11 +27,11 @@ tags:
 - Remote sensing
 - Artificial Intelligence
 
-featured: false
+featured: true
 
 links:
 - name:
-  url_pdf: https://peerj.com/articles/5843/
+  url_pdf: 'https://peerj.com/articles/5843/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
