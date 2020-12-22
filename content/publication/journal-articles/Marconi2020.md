@@ -44,8 +44,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: species_inventories.png
-  caption:
+image:
+  caption: ![Example image](/static/images/species_inventories.png)
   focal_point: ""
   preview_only: true
 
