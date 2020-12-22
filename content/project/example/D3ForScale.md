@@ -4,7 +4,7 @@ summary: Data driven discovery of forest functions across scales.
 tags:
 - Deep Learning
 - Remote Sensing
-date: "2021-01-02T00:00:00Z"
+date: "2020-12-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
