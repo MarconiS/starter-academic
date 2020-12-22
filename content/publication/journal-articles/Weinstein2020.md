@@ -24,7 +24,9 @@ abstract: 'Remote sensing of forested landscapes can transform the speed, scale 
 summary:
 
 tags:
-- Artificial Intelligence
+- Deep learning
+- RGB
+- LiDAR
 - Crown Segmentation
 
 featured: true

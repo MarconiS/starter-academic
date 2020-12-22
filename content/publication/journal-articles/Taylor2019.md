@@ -1,5 +1,5 @@
 ---
-title: "Cross-site learning in deep learning RGB tree crown detection"
+title: "Rethinking global carbon storage potential of trees. A comment on Bastin et al.(2019)"
 authors:
 - Taylor et al.
 date: "2019-10-07T00:00:00Z"

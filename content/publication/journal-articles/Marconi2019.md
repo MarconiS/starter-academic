@@ -25,7 +25,9 @@ summary:
 
 tags:
 - Remote sensing
-- Artificial Intelligence
+- Machine learning
+- Hyperspectral
+- LiDAR
 
 featured: true
 

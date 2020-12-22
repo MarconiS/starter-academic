@@ -24,7 +24,9 @@ abstract: 'Tree crown detection is a fundamental task in remote sensing for fore
 summary:
 
 tags:
-- Artificial Intelligence
+- Deep learning
+- LiDAR
+- RGB
 - Crown Segmentation
 
 featured: false

@@ -24,7 +24,7 @@ abstract: 'Forests provide essential biodiversity, ecosystem and economic servic
 summary:
 
 tags:
-- Artificial Intelligence
+- Deep learning
 - Crown Segmentation
 
 featured: false

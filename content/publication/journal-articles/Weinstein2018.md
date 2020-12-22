@@ -24,7 +24,8 @@ abstract: 'Remote sensing can transform the speed, scale, and cost of biodiversi
 summary:
 
 tags:
-- Artificial Intelligence
+- LiDAR
+- RGB
 - Crown Segmentation
 - Deep Learning
 

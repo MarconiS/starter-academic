@@ -23,7 +23,10 @@ abstract: 'Functional ecology has increasingly focused on describing ecological 
 summary:
 
 tags:
-- Artificial Intelligence
+- Remote sensing
+- Machine learning
+- Hyperspectral
+- LiDAR
 - Leaf Traits
 - ITC
 
