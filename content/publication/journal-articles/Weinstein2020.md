@@ -27,7 +27,7 @@ tags:
 - Artificial Intelligence
 - Crown Segmentation
 
-featured: false
+featured: true
 
 links:
 - name:
