@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 headless: true
 weight: "70"
 title: Talks
