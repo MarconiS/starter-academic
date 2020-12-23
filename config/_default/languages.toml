@@ -5,16 +5,53 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[it]
+  languageCode = "zh-Hans"
+  contentDir = "content/it"
+  title = "Intelligenza Artificiale per l'Ecologia"
+  [it.params]
+    description = ""
+    [[it.menu.main]]
+      name = "AI per Ecologia |"
+      url = "#about"
+      weight = 10
+
+    [[it.menu.main]]
+      name = "Blog"
+      url = "#posts"
+      weight = 20
+
+    [[it.menu.main]]
+      name = "Progetti"
+      url = "#projects"
+      weight = 30
+
+    [[it.menu.main]]
+      name = "Presentazioni"
+      url = "#talks"
+      weight = 40
+
+    [[it.menu.main]]
+      name = "Publicazioni"
+      url = "#featured"
+      weight = 50
+
+    [[it.menu.main]]
+      name = "Corsi"
+      url = "#lessons"
+      weight = 60
+
+    [[it.menu.main]]
+      name = "Contattami"
+      url = "#contact"
+      weight = 70
+
+    # Link to a PDF of your resume/CV from the menu.
+    # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+    [[it.menu.main]]
+       name = "CV"
+       url = "/media/resume.pdf"
+       weight = 80
