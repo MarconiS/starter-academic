@@ -24,14 +24,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-10-22T00:00:00Z"
 
-authors: []
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 
 links:
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- []
 ---
 
 {{% callout note %}}
