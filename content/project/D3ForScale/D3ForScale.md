@@ -10,7 +10,6 @@ date: "2020-12-02T00:00:00Z"
 external_link: ""
 
 image: '![This is an image](/media/species_inventories.png)'
-  caption:
   focal_point: Smart
 
 links:

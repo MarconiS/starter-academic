@@ -9,7 +9,6 @@ date: "2017-05-19T00:00:00Z"
 external_link: ""
 
 image: '![This is an image](/images/species_inventories.png)'
-  caption:
   focal_point: Right
 
 links:
