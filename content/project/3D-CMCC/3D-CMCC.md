@@ -9,8 +9,8 @@ date: "2017-05-19T00:00:00Z"
 external_link: ""
 
 image:  
-  caption:
-  focal_point: Smart
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
 - icon: twitter
