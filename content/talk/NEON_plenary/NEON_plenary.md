@@ -30,7 +30,7 @@ tags: [NEON]
 # Is this a featured talk? (true/false)
 featured: true
 
-image: species_inventories.png
+image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
