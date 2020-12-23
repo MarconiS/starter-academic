@@ -7,7 +7,7 @@ date: 2018-04-20T00:00:00Z
 lastmod: 2020-12-13T00:00:00Z
 featured: true
 image: "/static/images/species_inventories.png"
-  caption: ![Image credit Mepixels]
+  caption: 
   focal_point: ''
   placement: "2"
   preview_only: false

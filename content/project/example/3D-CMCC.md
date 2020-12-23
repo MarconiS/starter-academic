@@ -9,7 +9,7 @@ date: "2017-05-19T00:00:00Z"
 external_link: ""
 
 image:  "/static/images/species_inventories.png"
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Smart
 
 links:
