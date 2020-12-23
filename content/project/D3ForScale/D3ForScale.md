@@ -9,8 +9,8 @@ date: "2020-12-02T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image: ![This is an image](/media/species_inventories.png) 
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+image: ![This is an image](/media/species_inventories.png)
+  caption: 
   focal_point: Smart
 
 links:
