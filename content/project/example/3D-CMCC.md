@@ -8,7 +8,7 @@ date: "2017-05-19T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+image:  "/static/images/species_inventories.png"
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
 

@@ -7,7 +7,7 @@ projects: [IDTreeS]
 date: 2016-04-20T00:00:00Z
 lastmod: 2020-12-20T00:00:00Z
 featured: true
-image:
+image: "/static/images/species_inventories.png"
   caption: 'Image credit: [**Unsplash**](/static/images/species_inventories.png)'
   focal_point: ''
   placement: "2"
