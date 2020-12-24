@@ -1,0 +1,9 @@
+[[main]]
+  name = "Software"  # Title of the link.
+  url = "en/products/Sotware"  # Widget Page folder name.
+  weight = 4  # Position of the link in the navigation bar.
+
+[[main]]
+  name = "Data Products"  # Title of the link.
+  url = "en/products/Datasets"  # Widget Page folder name.
+  weight = 8  # Position of the link in the navigation bar.

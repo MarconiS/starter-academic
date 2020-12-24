@@ -31,7 +31,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "content/en/teaching/"
+  url = "/teaching/"
+  weight = 60
+
+[[main]]
+  name = "Products"
+  url = "/products/"
   weight = 60
 
 [[main]]

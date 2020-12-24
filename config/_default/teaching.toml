@@ -1,19 +1,14 @@
 [[main]]
-  name = "Classes"  # Title of the link.
-  url = "en/teaching/"  # Widget Page folder name.
-  weight = 2  # Position of the link in the navigation bar.
-
-[[main]]
   name = "Workshops"  # Title of the link.
-  url = "en/teaching//"  # Widget Page folder name.
+  url = "en/teaching/Workshops"  # Widget Page folder name.
   weight = 4  # Position of the link in the navigation bar.
 
 [[main]]
   name = "Tutorials"  # Title of the link.
-  url = "en/teaching//"  # Widget Page folder name.
+  url = "en/teaching/Tutorials"  # Widget Page folder name.
   weight = 8  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "External workshops"  # Title of the link.
-  url = "en/teaching//"  # Widget Page folder name.
+  name = "Classes"  # Title of the link.
+  url = "teaching/Classes"  # Widget Page folder name.
   weight = 12  # Position of the link in the navigation bar.
