@@ -16,6 +16,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -54,5 +55,10 @@ experience:
     description: |2-
         * Co-development of the 3D-CMCC Forest Ecosystem Model (phenology and soil)
         * Analysis of biophysical effects of Land Cover Change on climate
+
+design:
+  columns: '2'
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
 
 ---

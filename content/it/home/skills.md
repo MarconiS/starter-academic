@@ -41,4 +41,9 @@ feature:
   icon: satellite-dish
   icon_pack: fas
   name: GIS
+
+design:
+  columns: '2'
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
 ---

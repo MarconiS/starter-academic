@@ -24,5 +24,6 @@ design:
   view: 3
   flip_alt_rows: false
   columns: "1"
-
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
 ---

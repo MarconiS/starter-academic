@@ -42,7 +42,9 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 3
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---

@@ -28,4 +28,8 @@ item:
   title: US-Italy Fulbright
   url: ''
 
+  design:
+    columns: '2'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]
 ---

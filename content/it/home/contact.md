@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -23,8 +23,11 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
+      captcha: true
+
 design:
   columns: '2'
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
+
 ---

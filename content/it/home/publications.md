@@ -36,4 +36,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  spacing:
+    padding: ["40px", "0", "20px", "0"]
 ---
