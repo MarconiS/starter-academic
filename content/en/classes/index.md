@@ -1,5 +1,5 @@
 ---
-title: Coming soon
+title: Courses 
 summary: No full courses developed at this time
 tags:
 - Teaching

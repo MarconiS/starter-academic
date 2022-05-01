@@ -3,7 +3,7 @@ title: Dr. Sergio Marconi (He/Him)
 superuser: true
 role: Post-Doc at University of Florida
 organizations:
-- name: School of Forest Resources and Conservation
+- name: School of Forest, Fisheries, and Geomatics Sciences
   url: http://sfrc.ufl.edu
 bio: My research focuses on AI for forest cross-scale ecology and conservation
 interests:

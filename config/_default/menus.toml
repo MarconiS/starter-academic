@@ -9,10 +9,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Projects"
@@ -30,7 +30,7 @@
   weight = 50
 
 [[main]]
-  name = "Teaching"
+  name = "Material"
   url = "/teaching/"
   weight = 60
 

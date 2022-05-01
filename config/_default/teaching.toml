@@ -1,5 +1,5 @@
 [[main]]
-  name = "Workshops"  # Title of the link.
+  name = "External material"  # Title of the link.
   url = "en/teaching/Workshops"  # Widget Page folder name.
   weight = 4  # Position of the link in the navigation bar.
 

@@ -6,20 +6,27 @@ title: Funding
 subtitle:
 date_format: Jan 2006
 item:
+- date_end: '2023-03-04'
+  date_start: 2021-01-01
+  description: ''
+  organization:
+  organization_url: 
+  title: NSF Macrosystem Grant (NSF)
+  url: ''
 - date_end: '2020-12-17'
   date_start: 2019-10-01
   description: ''
   organization:
-  organization_url: https://informatics.research.ufl.edu
+  organization_url: 
   title: University of Florida Informatics Institute
-  url: ''
+  url: 'https://informatics.research.ufl.edu'
 - date_end: 2017-08-16
   date_start: 2018-06-01
   description: ''
   organization:
-  organization_url: https://biodiversity.institute.ufl.edu
+  organization_url: 
   title: University of Florida Biodiversity Institute
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: 'https://biodiversity.research.ufl.edu'
 - date_end: 2016-08-15
   date_start: 2015-08-16
   description: ''
