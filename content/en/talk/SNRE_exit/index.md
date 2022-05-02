@@ -24,11 +24,10 @@ featured: true
 url_video: "https://www.youtube.com/watch?v=nmVAUIlxtLE"
 
 projects:
-- []
+- [IDTreeS]
 ---
 
-summary: Leveraging machine learning to estimate individual trees properties  at scale from field and airborne imagery.
-abstract: "PhD exit seminar, November 2020"
+Leveraging machine learning to estimate individual trees properties  at scale from field and airborne imagery.
 
 
 {{< youtube id=nmVAUIlxtLE >}}
