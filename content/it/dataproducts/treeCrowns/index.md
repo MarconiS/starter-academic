@@ -9,7 +9,7 @@ tags:
 date: "2020-12-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://zenodo.org/record/3765872"
 
 image:  
   caption:
@@ -33,4 +33,4 @@ url_video: ""
 slides: ""
 ---
 
-Anthropogenic land cover changes (LCC) affect regional and global climate through biophysical variations of the surface energy budget mediated by albedo, evapotranspiration, and roughness. This change in surface energy budget may exacerbate or counteract biogeochemical greenhouse gas effects of LCC, with a large body of emerging assessments being produced, sometimes apparently contradictory. We reviewed the existing scientific literature with the objective to provide an overview of the state-of-the-knowledge of the biophysical LCC climate effects, in support of the assessment of mitigation/adaptation land policies.
+The NeonTreeCrowns dataset is a set of individual level crown estimates for 100 million trees at 37 geographic sites across the United States surveyed by the National Ecological Observation Network’s Airborne Observation Platform. Each rectangular bounding box crown prediction includes height, crown area, and spatial location. 

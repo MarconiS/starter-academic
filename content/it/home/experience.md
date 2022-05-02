@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: |2-
         * Cross-scale effects of ecological drivers on forest structure and function
-        * AI for big surveys of tree crowns from NEON Remote Sensing
-        * Deploying
+        * AI for estimating tree structural properties from NEON Remote Sensing
+        * Developing derived datasets of million individual trees algorithmically
 
   - title: PhD
     company: University of Florida

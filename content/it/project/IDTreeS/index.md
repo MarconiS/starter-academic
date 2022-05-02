@@ -1,5 +1,5 @@
 ---
-title: Cross Scale Macroecology
+title: IDTreeS
 summary: Cross-scale effects of ecological processes on ecological patterns
 tags:
 - Deep Learning
@@ -9,7 +9,7 @@ tags:
 date: "2020-12-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://idtrees.org"
 
 image:  
   caption:
@@ -19,7 +19,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url:
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,4 +33,4 @@ url_video: ""
 slides: ""
 ---
 
-Anthropogenic land cover changes (LCC) affect regional and global climate through biophysical variations of the surface energy budget mediated by albedo, evapotranspiration, and roughness. This change in surface energy budget may exacerbate or counteract biogeochemical greenhouse gas effects of LCC, with a large body of emerging assessments being produced, sometimes apparently contradictory. We reviewed the existing scientific literature with the objective to provide an overview of the state-of-the-knowledge of the biophysical LCC climate effects, in support of the assessment of mitigation/adaptation land policies.
+Understanding and managing forests is crucial to understanding and potentially mitigating the effects of climate change, invasive species, and shifting land use on natural systems and human society. However, collecting data on individual trees in the field is expensive and time consuming, which limits the scales at which this crucial data is collected. Combining large scale survey efforts with remotely sensed imagery from satellites, airplanes, and drones provide the potential to observe ecosystems at much larger scales than using field data alone.

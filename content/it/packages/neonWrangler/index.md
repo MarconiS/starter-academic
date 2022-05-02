@@ -1,15 +1,15 @@
 ---
-title: Cross Scale Macroecology
-summary: Cross-scale effects of ecological processes on ecological patterns
+title: NeonDataWrangler
+summary: R and Python package to easily retrieve and clean NEON TOS and AOP data
 tags:
-- Deep Learning
-- Hierarchical modeling
-- Macroecology
-- Scale
+- NEON
+- Field survey
+- Remote sensing
+- dataretriever
 date: "2020-12-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/weecology/neonVegWrangleR"
 
 image:  
   caption:

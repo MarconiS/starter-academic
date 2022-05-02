@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Leveraging machine learning to estimate individual trees properties  at scale from field and airborne imagery.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "PhD exit seminar, November 2020"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
